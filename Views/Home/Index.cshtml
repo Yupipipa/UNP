@@ -1,0 +1,61 @@
+﻿@model UNP.Models.User
+
+@{
+    ViewBag.Title = "Проверить УНП";
+}
+
+<h2>Проверить УНП</h2>
+
+<div class="form-group">
+    @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label" })
+    @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+    @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+</div>
+
+<div class="form-group">
+    @Html.LabelFor(model => model.UNP, htmlAttributes: new { @class = "control-label" })
+    @Html.TextAreaFor(model => model.UNP, new { @class = "form-control", rows = 4 })
+    @Html.ValidationMessageFor(model => model.UNP, "", new { @class = "text-danger" })
+</div>
+
+<button id="check-btn" type="button" class="btn btn-primary">Проверить УНП</button>
+
+<div id="results"></div>
+
+@section Scripts {
+    <script>
+        $(function () {
+            $('#check-btn').click(function () {
+                var email = $('#Email').val();
+                var unps = $('#UNP').val().split('\n');
+
+                $.ajax({
+                    url: '@Url.Action("CheckUnps", "Home")',
+                    type: 'POST',
+                    data: { email: email, unps: unps },
+                    dataType: 'json',
+                    success: function (data) {
+                        $('#results').empty();
+                        var table = $('<table>').addClass('table');
+                        var headerRow = $('<tr>').appendTo(table);
+                        $('<th>').text('УНП').appendTo(headerRow);
+                        $('<th>').text('Наличие в локальной БД').appendTo(headerRow);
+                        $('<th>').text('Наличе в БД портала').appendTo(headerRow);
+                        $.each(data, function (index, item) {
+                            var row = $('<tr>').appendTo(table);
+                            $('<td>').text(item.UNP).appendTo(row);
+                            $('<td>').text(item.LocalStatus).appendTo(row);
+                            $('<td>').text(item.PortalStatus).appendTo(row);
+                        });
+                        table.appendTo('#results');
+                    },
+                    error: function (jqXHR, textStatus, errorThrown) {
+                        console.log(jqXHR);
+                        console.log(textStatus);
+                        console.log(errorThrown);
+                    }
+                });
+            });
+        });
+    </script>
+}

@@ -1,0 +1,216 @@
+D:\projects\UNP\UNP\bin\UNP.dll.config
+D:\projects\UNP\UNP\bin\UNP.dll
+D:\projects\UNP\UNP\bin\UNP.pdb
+D:\projects\UNP\UNP\bin\roslyn\csc.exe
+D:\projects\UNP\UNP\bin\roslyn\csc.exe.config
+D:\projects\UNP\UNP\bin\roslyn\csc.rsp
+D:\projects\UNP\UNP\bin\roslyn\csi.exe
+D:\projects\UNP\UNP\bin\roslyn\csi.exe.config
+D:\projects\UNP\UNP\bin\roslyn\csi.rsp
+D:\projects\UNP\UNP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\projects\UNP\UNP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\projects\UNP\UNP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\projects\UNP\UNP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\projects\UNP\UNP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\projects\UNP\UNP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\projects\UNP\UNP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\projects\UNP\UNP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\projects\UNP\UNP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\projects\UNP\UNP\bin\roslyn\Microsoft.Managed.Core.targets
+D:\projects\UNP\UNP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\projects\UNP\UNP\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\projects\UNP\UNP\bin\roslyn\System.AppContext.dll
+D:\projects\UNP\UNP\bin\roslyn\System.Collections.Immutable.dll
+D:\projects\UNP\UNP\bin\roslyn\System.Console.dll
+D:\projects\UNP\UNP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\projects\UNP\UNP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\projects\UNP\UNP\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\projects\UNP\UNP\bin\roslyn\System.Globalization.Calendars.dll
+D:\projects\UNP\UNP\bin\roslyn\System.IO.Compression.dll
+D:\projects\UNP\UNP\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\projects\UNP\UNP\bin\roslyn\System.IO.FileSystem.dll
+D:\projects\UNP\UNP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\projects\UNP\UNP\bin\roslyn\System.Net.Http.dll
+D:\projects\UNP\UNP\bin\roslyn\System.Net.Sockets.dll
+D:\projects\UNP\UNP\bin\roslyn\System.Reflection.Metadata.dll
+D:\projects\UNP\UNP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\projects\UNP\UNP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\projects\UNP\UNP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\projects\UNP\UNP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\projects\UNP\UNP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\projects\UNP\UNP\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\projects\UNP\UNP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\projects\UNP\UNP\bin\roslyn\System.ValueTuple.dll
+D:\projects\UNP\UNP\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\projects\UNP\UNP\bin\roslyn\System.Xml.XmlDocument.dll
+D:\projects\UNP\UNP\bin\roslyn\System.Xml.XPath.dll
+D:\projects\UNP\UNP\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\projects\UNP\UNP\bin\roslyn\vbc.exe
+D:\projects\UNP\UNP\bin\roslyn\vbc.exe.config
+D:\projects\UNP\UNP\bin\roslyn\vbc.rsp
+D:\projects\UNP\UNP\bin\roslyn\VBCSCompiler.exe
+D:\projects\UNP\UNP\bin\roslyn\VBCSCompiler.exe.config
+D:\projects\UNP\UNP\bin\Antlr3.Runtime.dll
+D:\projects\UNP\UNP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\projects\UNP\UNP\bin\Microsoft.Web.Infrastructure.dll
+D:\projects\UNP\UNP\bin\Newtonsoft.Json.dll
+D:\projects\UNP\UNP\bin\System.Web.Helpers.dll
+D:\projects\UNP\UNP\bin\System.Web.Mvc.dll
+D:\projects\UNP\UNP\bin\System.Web.Optimization.dll
+D:\projects\UNP\UNP\bin\System.Web.Razor.dll
+D:\projects\UNP\UNP\bin\System.Web.WebPages.Deployment.dll
+D:\projects\UNP\UNP\bin\System.Web.WebPages.dll
+D:\projects\UNP\UNP\bin\System.Web.WebPages.Razor.dll
+D:\projects\UNP\UNP\bin\WebGrease.dll
+D:\projects\UNP\UNP\bin\System.Web.Helpers.xml
+D:\projects\UNP\UNP\bin\System.Web.Mvc.xml
+D:\projects\UNP\UNP\bin\System.Web.Optimization.xml
+D:\projects\UNP\UNP\bin\System.Web.Razor.xml
+D:\projects\UNP\UNP\bin\System.Web.WebPages.xml
+D:\projects\UNP\UNP\bin\System.Web.WebPages.Deployment.xml
+D:\projects\UNP\UNP\bin\System.Web.WebPages.Razor.xml
+D:\projects\UNP\UNP\bin\Newtonsoft.Json.xml
+D:\projects\UNP\UNP\bin\Antlr3.Runtime.pdb
+D:\projects\UNP\UNP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\projects\UNP\UNP\obj\Debug\UNP.csproj.AssemblyReference.cache
+D:\projects\UNP\UNP\obj\Debug\UNP.csproj.CoreCompileInputs.cache
+D:\projects\UNP\UNP\obj\Debug\UNP.csproj.CopyComplete
+D:\projects\UNP\UNP\obj\Debug\UNP.dll
+D:\projects\UNP\UNP\obj\Debug\UNP.pdb
+D:\projects\UNP\UNP\bin\EntityFramework.dll
+D:\projects\UNP\UNP\bin\EntityFramework.SqlServer.dll
+D:\projects\UNP\UNP\bin\EntityFramework.xml
+D:\projects\UNP\UNP\bin\EntityFramework.SqlServer.xml
+D:\projects\UNP\UNP\bin\BouncyCastle.Crypto.dll
+D:\projects\UNP\UNP\bin\MailKit.dll
+D:\projects\UNP\UNP\bin\MimeKit.dll
+D:\projects\UNP\UNP\bin\System.Buffers.dll
+D:\projects\UNP\UNP\bin\System.Memory.dll
+D:\projects\UNP\UNP\bin\System.Numerics.Vectors.dll
+D:\projects\UNP\UNP\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\projects\UNP\UNP\bin\System.Threading.Tasks.Extensions.dll
+D:\projects\UNP\UNP\bin\BouncyCastle.Crypto.xml
+D:\projects\UNP\UNP\bin\MailKit.pdb
+D:\projects\UNP\UNP\bin\MailKit.xml
+D:\projects\UNP\UNP\bin\MimeKit.pdb
+D:\projects\UNP\UNP\bin\MimeKit.xml
+D:\projects\UNP\UNP\bin\System.Buffers.xml
+D:\projects\UNP\UNP\bin\System.Memory.xml
+D:\projects\UNP\UNP\bin\System.Numerics.Vectors.xml
+D:\projects\UNP\UNP\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\projects\UNP\UNP\bin\System.Threading.Tasks.Extensions.xml
+D:\projects\UNP\UNP\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\projects\UNP\UNP\bin\System.Diagnostics.DiagnosticSource.dll
+D:\projects\UNP\UNP\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\projects\UNP\UNP\bin\System.Diagnostics.DiagnosticSource.xml
+D:\projects\Новая папка\UNP\UNP\bin\UNP.dll.config
+D:\projects\Новая папка\UNP\UNP\bin\UNP.dll
+D:\projects\Новая папка\UNP\UNP\bin\UNP.pdb
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\csc.exe
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\csc.exe.config
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\csc.rsp
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\csi.exe
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\csi.exe.config
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\csi.rsp
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\Microsoft.Managed.Core.targets
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\System.AppContext.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\System.Collections.Immutable.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\System.Console.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\System.Globalization.Calendars.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\System.IO.Compression.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\System.IO.FileSystem.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\System.Net.Http.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\System.Net.Sockets.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\System.Reflection.Metadata.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\System.ValueTuple.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\System.Xml.XmlDocument.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\System.Xml.XPath.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\vbc.exe
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\vbc.exe.config
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\vbc.rsp
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\VBCSCompiler.exe
+D:\projects\Новая папка\UNP\UNP\bin\roslyn\VBCSCompiler.exe.config
+D:\projects\Новая папка\UNP\UNP\bin\Antlr3.Runtime.dll
+D:\projects\Новая папка\UNP\UNP\bin\BouncyCastle.Crypto.dll
+D:\projects\Новая папка\UNP\UNP\bin\EntityFramework.dll
+D:\projects\Новая папка\UNP\UNP\bin\EntityFramework.SqlServer.dll
+D:\projects\Новая папка\UNP\UNP\bin\MailKit.dll
+D:\projects\Новая папка\UNP\UNP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\projects\Новая папка\UNP\UNP\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\projects\Новая папка\UNP\UNP\bin\Microsoft.Web.Infrastructure.dll
+D:\projects\Новая папка\UNP\UNP\bin\MimeKit.dll
+D:\projects\Новая папка\UNP\UNP\bin\Newtonsoft.Json.dll
+D:\projects\Новая папка\UNP\UNP\bin\System.Buffers.dll
+D:\projects\Новая папка\UNP\UNP\bin\System.Diagnostics.DiagnosticSource.dll
+D:\projects\Новая папка\UNP\UNP\bin\System.Memory.dll
+D:\projects\Новая папка\UNP\UNP\bin\System.Numerics.Vectors.dll
+D:\projects\Новая папка\UNP\UNP\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\projects\Новая папка\UNP\UNP\bin\System.Threading.Tasks.Extensions.dll
+D:\projects\Новая папка\UNP\UNP\bin\System.Web.Helpers.dll
+D:\projects\Новая папка\UNP\UNP\bin\System.Web.Mvc.dll
+D:\projects\Новая папка\UNP\UNP\bin\System.Web.Optimization.dll
+D:\projects\Новая папка\UNP\UNP\bin\System.Web.Razor.dll
+D:\projects\Новая папка\UNP\UNP\bin\System.Web.WebPages.Deployment.dll
+D:\projects\Новая папка\UNP\UNP\bin\System.Web.WebPages.dll
+D:\projects\Новая папка\UNP\UNP\bin\System.Web.WebPages.Razor.dll
+D:\projects\Новая папка\UNP\UNP\bin\WebGrease.dll
+D:\projects\Новая папка\UNP\UNP\bin\BouncyCastle.Crypto.xml
+D:\projects\Новая папка\UNP\UNP\bin\EntityFramework.xml
+D:\projects\Новая папка\UNP\UNP\bin\EntityFramework.SqlServer.xml
+D:\projects\Новая папка\UNP\UNP\bin\MailKit.pdb
+D:\projects\Новая папка\UNP\UNP\bin\MailKit.xml
+D:\projects\Новая папка\UNP\UNP\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\projects\Новая папка\UNP\UNP\bin\MimeKit.pdb
+D:\projects\Новая папка\UNP\UNP\bin\MimeKit.xml
+D:\projects\Новая папка\UNP\UNP\bin\Newtonsoft.Json.xml
+D:\projects\Новая папка\UNP\UNP\bin\System.Buffers.xml
+D:\projects\Новая папка\UNP\UNP\bin\System.Diagnostics.DiagnosticSource.xml
+D:\projects\Новая папка\UNP\UNP\bin\System.Memory.xml
+D:\projects\Новая папка\UNP\UNP\bin\System.Numerics.Vectors.xml
+D:\projects\Новая папка\UNP\UNP\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\projects\Новая папка\UNP\UNP\bin\System.Threading.Tasks.Extensions.xml
+D:\projects\Новая папка\UNP\UNP\bin\System.Web.Helpers.xml
+D:\projects\Новая папка\UNP\UNP\bin\System.Web.Mvc.xml
+D:\projects\Новая папка\UNP\UNP\bin\System.Web.Optimization.xml
+D:\projects\Новая папка\UNP\UNP\bin\System.Web.Razor.xml
+D:\projects\Новая папка\UNP\UNP\bin\System.Web.WebPages.xml
+D:\projects\Новая папка\UNP\UNP\bin\System.Web.WebPages.Deployment.xml
+D:\projects\Новая папка\UNP\UNP\bin\System.Web.WebPages.Razor.xml
+D:\projects\Новая папка\UNP\UNP\bin\Antlr3.Runtime.pdb
+D:\projects\Новая папка\UNP\UNP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\projects\Новая папка\UNP\UNP\obj\Debug\UNP.csproj.AssemblyReference.cache
+D:\projects\Новая папка\UNP\UNP\obj\Debug\UNP.csproj.CoreCompileInputs.cache
+D:\projects\Новая папка\UNP\UNP\obj\Debug\UNP.csproj.CopyComplete
+D:\projects\Новая папка\UNP\UNP\obj\Debug\UNP.dll
+D:\projects\Новая папка\UNP\UNP\obj\Debug\UNP.pdb
+D:\projects\UNP\UNP\bin\System.Net.Http.Formatting.dll
+D:\projects\UNP\UNP\bin\System.Net.Http.Formatting.xml
+D:\projects\UNP\UNP\obj\Debug\UNP.Migrations.InitialCreate.resources
+D:\projects\UNP\UNP\obj\Debug\UNP.csproj.GenerateResource.cache
+D:\projects\UNP\UNP\obj\Debug\UNP.Migrations.Shema_01.resources
+D:\projects\UNP\UNP\obj\Debug\UNP.Migrations.Shema_03.resources
