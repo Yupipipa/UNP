@@ -10,7 +10,7 @@ namespace UNP.Mail
         {
             var emailMessage = new MimeMessage();
 
-            emailMessage.From.Add(MailboxAddress.Parse("aliash99@mail.ru"));
+            emailMessage.From.Add(MailboxAddress.Parse("yourEmail"));
             emailMessage.To.Add(MailboxAddress.Parse(email));
             emailMessage.Subject = subject;
             emailMessage.Body = new TextPart(MimeKit.Text.TextFormat.Html)
@@ -21,7 +21,7 @@ namespace UNP.Mail
             using (var client = new SmtpClient())
             {
                 client.ConnectAsync("smtp.mail.ru", 465, true);
-                client.AuthenticateAsync("aliash99@mail.ru", "xYFbLc2ZTWi5BbT7XUJC");
+                client.AuthenticateAsync("yourEmail", "yourPass");
                 client.SendAsync(emailMessage);
 
                 client.DisconnectAsync(true);
